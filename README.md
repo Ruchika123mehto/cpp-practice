@@ -1,2 +1,1 @@
-# cpp-practice
-C++ programs for beginner coding practice
+hello. cpp
